@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+hZTf+V2SxqgzJwA+uVdRFEDmVPUsFe8b9uNcRLZtWy+bpSu7vPNHq/gcQRAtvq7/PvdNpmJwSxZfaV4226WNg==",
+  "dgSpecHash": "8TMBWXnovqcM6XD4DfviXFqdLv8tDyv6vchKL9B3pabVory37OZwK7i/H8R8JxwRbChJknNMKX8S2ylww0M0OQ==",
   "success": true,
-  "projectFilePath": "/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/rpg_friendly.csproj",
+  "projectFilePath": "/home/davi/workspace/Abstraindo-Jogo-RPG/rpg_friendly.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
