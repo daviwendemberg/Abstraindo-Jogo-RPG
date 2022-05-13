@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/rpg_friendly.csproj",
+      "projectUniqueName": "/home/davi/workspace/Abstraindo-Jogo-RPG/rpg_friendly.csproj",
       "projectName": "rpg_friendly",
-      "projectPath": "/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/rpg_friendly.csproj",
+      "projectPath": "/home/davi/workspace/Abstraindo-Jogo-RPG/rpg_friendly.csproj",
       "packagesPath": "/home/davi/.nuget/packages/",
-      "outputPath": "/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/obj/",
+      "outputPath": "/home/davi/workspace/Abstraindo-Jogo-RPG/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/davi/.nuget/NuGet/NuGet.Config"
