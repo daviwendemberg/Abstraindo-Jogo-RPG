@@ -1,0 +1,15 @@
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/bin/Debug/net6.0/rpg_friendly
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/bin/Debug/net6.0/rpg_friendly.deps.json
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/bin/Debug/net6.0/rpg_friendly.runtimeconfig.json
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/bin/Debug/net6.0/rpg_friendly.dll
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/bin/Debug/net6.0/rpg_friendly.pdb
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/obj/Debug/net6.0/rpg_friendly.csproj.AssemblyReference.cache
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/obj/Debug/net6.0/rpg_friendly.GeneratedMSBuildEditorConfig.editorconfig
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/obj/Debug/net6.0/rpg_friendly.AssemblyInfoInputs.cache
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/obj/Debug/net6.0/rpg_friendly.AssemblyInfo.cs
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/obj/Debug/net6.0/rpg_friendly.csproj.CoreCompileInputs.cache
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/obj/Debug/net6.0/rpg_friendly.dll
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/obj/Debug/net6.0/refint/rpg_friendly.dll
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/obj/Debug/net6.0/rpg_friendly.pdb
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/obj/Debug/net6.0/rpg_friendly.genruntimeconfig.cache
+/home/davi/workspace/dio-desafio-github-primeiro-repositorio/praticando-code/rpg_friendly/obj/Debug/net6.0/ref/rpg_friendly.dll
